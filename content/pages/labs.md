@@ -9,9 +9,113 @@ This section contains laboratory assignments and supporting documentation. For c
 Lab Assignments
 ---------------
 
-| LABS | DATA SHEETs | SOURCE FILES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} Lab 1: Introduction to digital design ([PDF]({{< baseurl >}}/resources/lab1)) {{< br >}}{{< br >}} Lab1: Report template ([PDF]({{< baseurl >}}/resources/lab1_template)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Fairchild Semiconductor](http://www.fairchildsemi.com/)  {{< br >}}74LS00  {{< br >}}74LS04  {{< br >}}74LS163A  {{< br >}}74LS393  {{< br >}}74LS74 {{< br >}}{{< br >}} [Philips Semiconductor](https://www.mouser.com/manufacturer/philips-semiconductors/?gclid=Cj0KCQjwsZKJBhC0ARIsAJ96n3UpfI0N8WW8IW6dlFKRG2SgtaRG8CpynKsI0NiCIfNDuebb096JuaUaAmbzEALw_wcB)  {{< br >}}HCT family specification {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([lab1\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab1_labkit.v))  {{< br >}}([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  {{< br >}}([seven\_segment.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/seven_segment.v)) {{< br >}}{{< br >}}  |
-| Lab 2: FSM design - Traffic light controller ([PDF]({{< baseurl >}}/resources/lab2)) | &nbsp; |  {{< br >}}{{< br >}} ([lab2\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab2_labkit.v))  {{< br >}}([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  {{< br >}}([debounce.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/debounce.v)) {{< br >}}{{< br >}}  |
-| Lab 3: FSM design - Memory tester ([PDF]({{< baseurl >}}/resources/lab3)) | [Motorola](http://www.motorola.com/)  {{< br >}}MCM6264 |  {{< br >}}{{< br >}} ([lab3\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab3_labkit.v))  {{< br >}}([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  {{< br >}}([dots.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/dots.v)) {{< br >}}{{< br >}}  |
-| Lab 4: Complex FSM - Pong video game ([PDF]({{< baseurl >}}/resources/lab4)) | [Analog Devices](http://www.analog.com/)  {{< br >}}ADV7125 triple 8-bit video DAC |  {{< br >}}{{< br >}} ([lab4\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab4_labkit.v))  {{< br >}}([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  {{< br >}}([debounce.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/debounce.v)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+DATA SHEETs
+{{< thclose >}}
+{{< thopen >}}
+SOURCE FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Lab 1: Introduction to digital design ([PDF]({{< baseurl >}}/resources/lab1))
+
+Lab1: Report template ([PDF]({{< baseurl >}}/resources/lab1_template))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Fairchild Semiconductor](http://www.fairchildsemi.com/)  
+74LS00  
+74LS04  
+74LS163A  
+74LS393  
+74LS74
+
+[Philips Semiconductor](https://www.mouser.com/manufacturer/philips-semiconductors/?gclid=Cj0KCQjwsZKJBhC0ARIsAJ96n3UpfI0N8WW8IW6dlFKRG2SgtaRG8CpynKsI0NiCIfNDuebb096JuaUaAmbzEALw_wcB)  
+HCT family specification
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([lab1\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab1_labkit.v))  
+([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  
+([seven\_segment.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/seven_segment.v))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2: FSM design - Traffic light controller ([PDF]({{< baseurl >}}/resources/lab2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([lab2\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab2_labkit.v))  
+([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  
+([debounce.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/debounce.v))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3: FSM design - Memory tester ([PDF]({{< baseurl >}}/resources/lab3))
+{{< tdclose >}}
+{{< tdopen >}}
+[Motorola](http://www.motorola.com/)  
+MCM6264
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([lab3\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab3_labkit.v))  
+([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  
+([dots.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/dots.v))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4: Complex FSM - Pong video game ([PDF]({{< baseurl >}}/resources/lab4))
+{{< tdclose >}}
+{{< tdopen >}}
+[Analog Devices](http://www.analog.com/)  
+ADV7125 triple 8-bit video DAC
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([lab4\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab4_labkit.v))  
+([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  
+([debounce.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/debounce.v))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

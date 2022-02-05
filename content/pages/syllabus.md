@@ -75,17 +75,102 @@ The term project requirements **must** be completed in accordance with the sched
 
 An approximate breakdown for final grades is as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quiz | 10% |
-| Three problem sets | 3% |
-| Lab 1 | 9% |
-| Lab 2 | 10% |
-| Lab 3 | 7% |
-| Lab 4 | 11% |
-| Writing (Lab 2 revision - part of CIM requirement) | 10% |
-| Participation (Lecture, recitation, project presentations) | 3% |
-| Final project | 37% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+3%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+9%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+7%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+11%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing (Lab 2 revision - part of CIM requirement)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation (Lecture, recitation, project presentations)
+{{< tdclose >}}
+{{< tdopen >}}
+3%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+37%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 

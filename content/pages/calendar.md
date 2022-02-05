@@ -8,34 +8,431 @@ The calendar below provides information on the course's lecture (L), recitation 
 
 The last lecture or recitation is delivered 5 weeks before the end of the semester; after that date, class time is spent entirely on the final project.
 
-| SES # | Topics | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction |  {{< br >}}{{< br >}} Lab 1 out {{< br >}}{{< br >}} Problem set 1 out {{< br >}}{{< br >}}  |
-| L2 | Combinational logic |  |
-| L3 | Introduction to Verilog® - combinational logic |  |
-| L4 | Sequential building blocks |  |
-| L5 | Simple sequential circuits and Verilog® |  |
-| L6 | Finite-state machines and synchronization |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}}  |
-| L7 | Memory basics and timing |  {{< br >}}{{< br >}} Lab 1 checkoff and report due {{< br >}}{{< br >}} Lab 2 (Traffic light FSM) out {{< br >}}{{< br >}}  |
-| R1 | FSM examples, Verilog® lab 2 discussion |  |
-| L8-L9 | Arithmetic structures |  |
-| R2 | More FSM, memory, arithmetic |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-| L10 | Analog building blocks | Lab 2 checkoff |
-| L11 | System integration issues and major/minor FSM |  {{< br >}}{{< br >}} Lab 2 report due {{< br >}}{{< br >}} Lab 3 (Memory tester) out {{< br >}}{{< br >}}  |
-| R3 | VGA timing generation, block RAM/ROM |  |
-| L12 | Reconfigurable logic architecture |  |
-| L13 | Video | Problem set 3 due |
-| Q1 | Quiz review |  {{< br >}}{{< br >}} Lab 3 (Memory tester) checkoff - No detailed report due (see lab for details) {{< br >}}{{< br >}} Lab 4 (Pong game) out {{< br >}}{{< br >}}  |
-| Q2 | Quiz |  |
-| L14 | Project kickoff |  {{< br >}}{{< br >}} Formation of project teams {{< br >}}{{< br >}} Lab 4 intermediate checkoff (not graded) due two days after Ses #L14 {{< br >}}{{< br >}}  |
-| L15 | LSI integration and performance transformations |  |
-| L16 | Power dissipation in digital systems |  {{< br >}}{{< br >}} Lab 4 checkoff due two days after Ses #L16 {{< br >}}{{< br >}} Project abstracts due five days after Ses #L16 {{< br >}}{{< br >}} Lab 4 report due five days after Ses #L16 {{< br >}}{{< br >}}  |
-| C1 | Proposal conference with TAs | Bring project proposals for the proposal conference |
-| C2 | Proposal conference with TAs |  {{< br >}}{{< br >}} Lab 2 revised report due nine days after Ses #L16 (part of CIM) {{< br >}}{{< br >}} Bring project proposals for the proposal conference {{< br >}}{{< br >}}  |
-| P1-P2 | Block diagram conference with TAs |  |
-| P3 | Project design presentation |  |
-| P4 | Project design presentation (cont.) |  |
-| P5 | Project design presentation (cont.) |  |
-| P6 | Project design presentation (cont.) | Customized project checklist due (groups + staff) |
-| P7-P11 | Implement/Debug |  |
-| P12 | Implement/Debug (cont.) |  {{< br >}}{{< br >}} Final project demonstrations and video taping due {{< br >}}{{< br >}} Final project report due three days after Ses #P12 {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 1 out
+
+Problem set 1 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Combinational logic
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Verilog® - combinational logic
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Sequential building blocks
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Simple sequential circuits and Verilog®
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Finite-state machines and synchronization
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Memory basics and timing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 1 checkoff and report due
+
+Lab 2 (Traffic light FSM) out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+FSM examples, Verilog® lab 2 discussion
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8-L9
+{{< tdclose >}}
+{{< tdopen >}}
+Arithmetic structures
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+More FSM, memory, arithmetic
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Analog building blocks
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2 checkoff
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+System integration issues and major/minor FSM
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 2 report due
+
+Lab 3 (Memory tester) out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+VGA timing generation, block RAM/ROM
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Reconfigurable logic architecture
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Video
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q1
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz review
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 3 (Memory tester) checkoff - No detailed report due (see lab for details)
+
+Lab 4 (Pong game) out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Project kickoff
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Formation of project teams
+
+Lab 4 intermediate checkoff (not graded) due two days after Ses #L14
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+LSI integration and performance transformations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Power dissipation in digital systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 4 checkoff due two days after Ses #L16
+
+Project abstracts due five days after Ses #L16
+
+Lab 4 report due five days after Ses #L16
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C1
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal conference with TAs
+{{< tdclose >}}
+{{< tdopen >}}
+Bring project proposals for the proposal conference
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C2
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal conference with TAs
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 2 revised report due nine days after Ses #L16 (part of CIM)
+
+Bring project proposals for the proposal conference
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P1-P2
+{{< tdclose >}}
+{{< tdopen >}}
+Block diagram conference with TAs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P3
+{{< tdclose >}}
+{{< tdopen >}}
+Project design presentation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P4
+{{< tdclose >}}
+{{< tdopen >}}
+Project design presentation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P5
+{{< tdclose >}}
+{{< tdopen >}}
+Project design presentation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P6
+{{< tdclose >}}
+{{< tdopen >}}
+Project design presentation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Customized project checklist due (groups + staff)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P7-P11
+{{< tdclose >}}
+{{< tdopen >}}
+Implement/Debug
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P12
+{{< tdclose >}}
+{{< tdopen >}}
+Implement/Debug (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final project demonstrations and video taping due
+
+Final project report due three days after Ses #P12
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
