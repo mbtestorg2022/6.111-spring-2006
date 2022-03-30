@@ -13,6 +13,7 @@ description: 'Example of student work: project code for a final project by Masoo
   recorded voice through headphones.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/5b75350350cd7c4103cd2bc6beaf243f_appendix7.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: appendix7.pdf
 uid: 5b753503-50cd-7c41-03cd-2bc6beaf243f

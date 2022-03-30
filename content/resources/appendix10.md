@@ -12,6 +12,7 @@ description: 'Example of student work: project code for a final project by Noel 
   wirelessly.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/81f7264fb7d97d529fa8509299a7cfef_appendix10.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: appendix10.pdf
 uid: 81f7264f-b7d9-7d52-9fa8-509299a7cfef

@@ -5,6 +5,7 @@ description: 'Example of student work: final project presentation by Cameron Lew
   of the classic arcade game Tetris.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/d58c108e98a6a77ecace2178c786dec0_presentation13.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: presentation13.pdf
 uid: d58c108e-98a6-a77e-cace-2178c786dec0

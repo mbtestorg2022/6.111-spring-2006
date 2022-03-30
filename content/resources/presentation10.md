@@ -12,6 +12,7 @@ description: 'Example of student work: final project presentation by Noel Campbe
   wirelessly.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/469c23ff4c23096799cbf005eb908305_presentation10.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: presentation10.pdf
 uid: 469c23ff-4c23-0967-99cb-f005eb908305

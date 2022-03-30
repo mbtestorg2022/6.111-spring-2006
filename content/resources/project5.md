@@ -9,6 +9,7 @@ description: 'Example of student work: final project report by Igor Ginsburg. 3D
   during gameplay a model of the current board is generated dynamically.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/9837d1a7f89ffd4fdb83d34d63e245f8_project5.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: project5.pdf
 uid: 9837d1a7-f89f-fd4f-db83-d34d63e245f8

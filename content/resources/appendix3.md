@@ -5,6 +5,7 @@ description: 'Example of student work: project code for a final project by Hana 
   final results of a digital drum machine.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/bab5f3bb7dd8a8f0221f55f5f517d659_appendix3.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: appendix3.pdf
 uid: bab5f3bb-7dd8-a8f0-221f-55f5f517d659

@@ -13,6 +13,7 @@ description: 'Example of student work: project code for a final project by David
   the boxing ring are drawn using sprites read from ROM.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/52c12e2efbc7993d0ad459d216caa4d1_appendix1.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: appendix1.pdf
 uid: 52c12e2e-fbc7-993d-0ad4-59d216caa4d1

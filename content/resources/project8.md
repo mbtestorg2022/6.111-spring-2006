@@ -10,6 +10,7 @@ description: 'Example of student work: final project report by Mariela Buchin, W
   velocity display.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/fbdd6e7d2ab89756abcffda3a10b45bc_project8.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: project8.pdf
 uid: fbdd6e7d-2ab8-9756-abcf-fda3a10b45bc

@@ -11,6 +11,7 @@ description: 'Example of student work: final project presentation by Helen Liang
   stepped on; and audio output, which plays the activated note.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/37df00dfb072cab7bc93430966e29bcd_presentation12.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: presentation12.pdf
 uid: 37df00df-b072-cab7-bc93-430966e29bcd

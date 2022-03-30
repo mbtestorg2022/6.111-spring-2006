@@ -11,6 +11,7 @@ description: 'Example of student work: project code for a final project by Helen
   stepped on; and audio output, which plays the activated note.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/edc047aa249c020e34b379aa03af1476_appendix12.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: appendix12.pdf
 uid: edc047aa-249c-020e-34b3-79aa03af1476

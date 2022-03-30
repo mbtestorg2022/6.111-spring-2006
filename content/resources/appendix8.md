@@ -10,6 +10,7 @@ description: 'Example of student work: project code for a final project by Marie
   and vertical velocity display.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/8e8c95157762b41587570ded8c345049_appendix8.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: appendix8.pdf
 uid: 8e8c9515-7762-b415-8757-0ded8c345049

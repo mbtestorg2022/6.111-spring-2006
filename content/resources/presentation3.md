@@ -5,6 +5,7 @@ description: 'Example of student work: final project presentation by Hana Adaniy
   final results of a digital drum machine.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/1d6a5499febc69a21adf286f6aadecb2_presentation3.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: presentation3.pdf
 uid: 1d6a5499-febc-69a2-1adf-286f6aadecb2

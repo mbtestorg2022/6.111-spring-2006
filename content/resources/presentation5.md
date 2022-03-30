@@ -9,6 +9,7 @@ description: 'Example of student work: final project presentation by Igor Ginsbu
   on-chip ROM, during gameplay a model of the current board is generated dynamically.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/61f8548e486f7ecab8971f962d9e63d1_presentation5.pdf
 file_type: application/pdf
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: presentation5.pdf
 uid: 61f8548e-486f-7eca-b897-1f962d9e63d1
